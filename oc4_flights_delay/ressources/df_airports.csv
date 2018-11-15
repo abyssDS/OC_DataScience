@@ -1,0 +1,311 @@
+Code,Description,origin_airport_id_ordered,dest_airport_id_ordered
+10135,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",207.0,238.0
+10136,"Abilene, TX: Abilene Regional",288.0,229.0
+10140,"Albuquerque, NM: Albuquerque International Sunport",121.0,148.0
+10141,"Aberdeen, SD: Aberdeen Regional",80.0,50.0
+10146,"Albany, GA: Southwest Georgia Regional",178.0,254.0
+10154,"Nantucket, MA: Nantucket Memorial",297.0,140.0
+10155,"Waco, TX: Waco Regional",217.0,252.0
+10157,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",290.0,290.0
+10158,"Atlantic City, NJ: Atlantic City International",283.0,305.0
+10165,"Adak Island, AK: Adak",61.0,29.0
+10170,"Kodiak, AK: Kodiak Airport",12.0,8.0
+10185,"Alexandria, LA: Alexandria International",231.0,147.0
+10208,"Augusta, GA: Augusta Regional at Bush Field",197.0,232.0
+10245,"King Salmon, AK: King Salmon Airport",44.0,11.0
+10257,"Albany, NY: Albany International",73.0,131.0
+10279,"Amarillo, TX: Rick Husband Amarillo International",37.0,73.0
+10299,"Anchorage, AK: Ted Stevens Anchorage International",13.0,31.0
+10333,"Alpena, MI: Alpena County Regional",245.0,282.0
+10372,"Aspen, CO: Aspen Pitkin County Sardy Field",289.0,268.0
+10397,"Atlanta, GA: Hartsfield-Jackson Atlanta International",81.0,94.0
+10408,"Appleton, WI: Appleton International",95.0,79.0
+10423,"Austin, TX: Austin - Bergstrom International",119.0,188.0
+10431,"Asheville, NC: Asheville Regional",264.0,241.0
+10434,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",167.0,154.0
+10469,"Kalamazoo, MI: Kalamazoo/Battle Creek International",209.0,175.0
+10529,"Hartford, CT: Bradley International",77.0,192.0
+10551,"Bethel, AK: Bethel Airport",1.0,4.0
+10561,"Bakersfield, CA: Meadows Field",90.0,189.0
+10577,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",247.0,236.0
+10581,"Bangor, ME: Bangor International",263.0,286.0
+10599,"Birmingham, AL: Birmingham-Shuttlesworth International",125.0,117.0
+10620,"Billings, MT: Billings Logan International",18.0,54.0
+10627,"Bismarck/Mandan, ND: Bismarck Municipal",143.0,107.0
+10631,"Bemidji, MN: Bemidji Regional",128.0,134.0
+10666,"Bellingham, WA: Bellingham International",50.0,46.0
+10685,"Bloomington/Normal, IL: Central Illinois Regional",156.0,169.0
+10693,"Nashville, TN: Nashville International",152.0,127.0
+10713,"Boise, ID: Boise Air Terminal",118.0,152.0
+10721,"Boston, MA: Logan International",182.0,261.0
+10728,"Beaumont/Port Arthur, TX: Jack Brooks Regional",308.0,300.0
+10731,"Brunswick, GA: Brunswick Golden Isles",218.0,259.0
+10732,"Aguadilla, PR: Rafael Hernandez",224.0,295.0
+10739,"Brainerd, MN: Brainerd Lakes Regional",94.0,28.0
+10747,"Brownsville, TX: Brownsville South Padre Island International",85.0,70.0
+10754,"Barrow, AK: Wiley Post/Will Rogers Memorial",7.0,9.0
+10779,"Butte, MT: Bert Mooney",29.0,30.0
+10781,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",285.0,257.0
+10785,"Burlington, VT: Burlington International",278.0,258.0
+10792,"Buffalo, NY: Buffalo Niagara International",115.0,204.0
+10800,"Burbank, CA: Bob Hope",107.0,82.0
+10821,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",116.0,85.0
+10849,"Bozeman, MT: Bozeman Yellowstone International",78.0,74.0
+10868,"Columbia, SC: Columbia Metropolitan",236.0,267.0
+10874,"Akron, OH: Akron-Canton Regional",154.0,124.0
+10918,"Cedar City, UT: Cedar City Regional",15.0,49.0
+10926,"Cordova, AK: Merle K Mudhole Smith",14.0,10.0
+10980,"Chattanooga, TN: Lovell Field",268.0,279.0
+10990,"Charlottesville, VA: Charlottesville Albemarle",277.0,288.0
+10994,"Charleston, SC: Charleston AFB/International",174.0,123.0
+11003,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",184.0,170.0
+11013,"Sault Ste. Marie, MI: Chippewa County International",235.0,98.0
+11042,"Cleveland, OH: Cleveland-Hopkins International",176.0,239.0
+11049,"College Station/Bryan, TX: Easterwood Field",57.0,68.0
+11057,"Charlotte, NC: Charlotte Douglas International",157.0,81.0
+11066,"Columbus, OH: John Glenn Columbus International",84.0,105.0
+11076,"Hancock/Houghton, MI: Houghton County Memorial",302.0,283.0
+11097,"Cody, WY: Yellowstone Regional",92.0,13.0
+11109,"Colorado Springs, CO: City of Colorado Springs Municipal",230.0,280.0
+11122,"Casper, WY: Casper/Natrona County International",32.0,25.0
+11140,"Corpus Christi, TX: Corpus Christi International",38.0,52.0
+11146,"Charleston/Dunbar, WV: Yeager",279.0,223.0
+11150,"Columbus, GA: Columbus Airport",146.0,215.0
+11193,"Cincinnati, OH: Cincinnati/Northern Kentucky International",173.0,183.0
+11203,"Mosinee, WI: Central Wisconsin",141.0,106.0
+11252,"Daytona Beach, FL: Daytona Beach International",100.0,80.0
+11259,"Dallas, TX: Dallas Love Field",185.0,128.0
+11267,"Dayton, OH: James M Cox/Dayton International",153.0,126.0
+11278,"Washington, DC: Ronald Reagan Washington National",190.0,233.0
+11292,"Denver, CO: Denver International",163.0,141.0
+11298,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",253.0,260.0
+11308,"Dothan, AL: Dothan Regional",258.0,272.0
+11336,"Dillingham, AK: Dillingham Airport",34.0,12.0
+11337,"Duluth, MN: Duluth International",239.0,156.0
+11413,"Durango, CO: Durango La Plata County",229.0,72.0
+11423,"Des Moines, IA: Des Moines International",135.0,176.0
+11433,"Detroit, MI: Detroit Metro Wayne County",158.0,157.0
+11447,"Devils Lake, ND: Devils Lake Regional",145.0,113.0
+11471,"Eau Claire, WI: Chippewa Valley Regional",120.0,99.0
+11481,"Panama City, FL: Northwest Florida Beaches International",41.0,60.0
+11503,"Eagle, CO: Eagle County Regional",198.0,284.0
+11525,"Elko, NV: Elko Regional",31.0,35.0
+11537,"Elmira/Corning, NY: Elmira/Corning Regional",63.0,158.0
+11540,"El Paso, TX: El Paso International",101.0,195.0
+11577,"Erie, PA: Erie International/Tom Ridge Field",271.0,211.0
+11587,"Escanaba, MI: Delta County",189.0,205.0
+11603,"Eugene, OR: Mahlon Sweet Field",282.0,235.0
+11612,"Evansville, IN: Evansville Regional",248.0,244.0
+11617,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",194.0,256.0
+11618,"Newark, NJ: Newark Liberty International",275.0,298.0
+11624,"Key West, FL: Key West International",75.0,65.0
+11630,"Fairbanks, AK: Fairbanks International",21.0,27.0
+11637,"Fargo, ND: Hector International",179.0,172.0
+11638,"Fresno, CA: Fresno Yosemite International",214.0,212.0
+11641,"Fayetteville, NC: Fayetteville Regional/Grannis Field",111.0,96.0
+11648,"Kalispell, MT: Glacier Park International",45.0,66.0
+11695,"Flagstaff, AZ: Flagstaff Pulliam",52.0,26.0
+11697,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",252.0,264.0
+11721,"Flint, MI: Bishop International",40.0,58.0
+11775,"Sioux Falls, SD: Joe Foss Field",181.0,199.0
+11778,"Fort Smith, AR: Fort Smith Regional",108.0,227.0
+11823,"Fort Wayne, IN: Fort Wayne International",204.0,278.0
+11865,"Gillette, WY: Gillette Campbell County",23.0,19.0
+11867,"Garden City, KS: Garden City Regional",305.0,281.0
+11884,"Spokane, WA: Spokane International",39.0,78.0
+11898,"Grand Forks, ND: Grand Forks International",127.0,101.0
+11905,"Longview, TX: East Texas Regional",301.0,307.0
+11921,"Grand Junction, CO: Grand Junction Regional",16.0,17.0
+11953,"Gainesville, FL: Gainesville Regional",187.0,182.0
+11973,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",139.0,102.0
+11977,"Green Bay, WI: Green Bay Austin Straubel International",88.0,247.0
+11980,"Grand Island, NE: Central Nebraska Regional",296.0,265.0
+11982,"Killeen, TX: Robert Gray AAF",76.0,177.0
+11986,"Grand Rapids, MI: Gerald R. Ford International",132.0,122.0
+11995,"Greensboro/High Point, NC: Piedmont Triad International",191.0,222.0
+11996,"Greer, SC: Greenville-Spartanburg International",172.0,214.0
+11997,"Gustavus, AK: Gustavus Airport",42.0,2.0
+12003,"Great Falls, MT: Great Falls International",49.0,47.0
+12007,"Columbus, MS: Golden Triangle Regional",205.0,285.0
+12012,"Gunnison, CO: Gunnison-Crested Butte Regional",216.0,269.0
+12016,"Guam, TT: Guam International",60.0,69.0
+12094,"Hayden, CO: Yampa Valley",183.0,210.0
+12129,"Hibbing, MN: Range Regional",262.0,77.0
+12156,"Helena, MT: Helena Regional",6.0,41.0
+12173,"Honolulu, HI: Daniel K Inouye International",9.0,55.0
+12177,"Hobbs, NM: Lea County Regional",134.0,33.0
+12191,"Houston, TX: William P Hobby",148.0,137.0
+12197,"White Plains, NY: Westchester County",287.0,296.0
+12206,"Harlingen/San Benito, TX: Valley International",43.0,64.0
+12217,"Huntsville, AL: Huntsville International-Carl T Jones Field",48.0,97.0
+12250,"Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",237.0,71.0
+12255,"Hays, KS: Hays Regional",89.0,34.0
+12264,"Washington, DC: Washington Dulles International",171.0,110.0
+12265,"Niagara Falls, NY: Niagara Falls International",165.0,180.0
+12266,"Houston, TX: George Bush Intercontinental/Houston",142.0,171.0
+12278,"Wichita, KS: Wichita Dwight D Eisenhower National",105.0,112.0
+12280,"Idaho Falls, ID: Idaho Falls Regional",46.0,44.0
+12323,"Wilmington, NC: Wilmington International",166.0,203.0
+12335,"Iron Mountain/Kingsfd, MI: Ford",150.0,108.0
+12339,"Indianapolis, IN: Indianapolis International",114.0,186.0
+12343,"International Falls, MN: Falls International Einarson Field",259.0,149.0
+12389,"Williston, ND: Sloulin Field International",98.0,40.0
+12391,"Islip, NY: Long Island MacArthur",51.0,174.0
+12397,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",255.0,153.0
+12402,"Hilo, HI: Hilo International",4.0,6.0
+12441,"Jackson, WY: Jackson Hole",267.0,255.0
+12448,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",122.0,89.0
+12451,"Jacksonville, FL: Jacksonville International",103.0,181.0
+12478,"New York, NY: John F. Kennedy International",280.0,293.0
+12511,"Joplin, MO: Joplin Regional",206.0,277.0
+12519,"Jamestown, ND: Jamestown Regional",168.0,53.0
+12523,"Juneau, AK: Juneau International",28.0,23.0
+12758,"Kona, HI: Ellison Onizuka Kona International at Keahole",17.0,22.0
+12819,"Ketchikan, AK: Ketchikan International",35.0,37.0
+12884,"Lansing, MI: Capital Region International",215.0,187.0
+12888,"Laramie, WY: Laramie Regional",104.0,24.0
+12889,"Las Vegas, NV: McCarran International",188.0,173.0
+12891,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",254.0,240.0
+12892,"Los Angeles, CA: Los Angeles International",241.0,271.0
+12896,"Lubbock, TX: Lubbock Preston Smith International",71.0,116.0
+12898,"Latrobe, PA: Arnold Palmer Regional",234.0,292.0
+12915,"Lake Charles, LA: Lake Charles Regional",131.0,84.0
+12945,"Lexington, KY: Blue Grass",233.0,234.0
+12951,"Lafayette, LA: Lafayette Regional Paul Fournet Field",164.0,93.0
+12953,"New York, NY: LaGuardia",284.0,304.0
+12954,"Long Beach, CA: Long Beach Airport",212.0,197.0
+12982,"Lihue, HI: Lihue Airport",10.0,16.0
+12992,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",64.0,83.0
+13029,"Lincoln, NE: Lincoln Airport",129.0,100.0
+13061,"Laredo, TX: Laredo International",192.0,165.0
+13076,"La Crosse, WI: La Crosse Regional",33.0,75.0
+13127,"Lewiston, ID: Lewiston Nez Perce County",3.0,3.0
+13158,"Midland/Odessa, TX: Midland International Air and Space Port",69.0,76.0
+13184,"Saginaw/Bay City/Midland, MI: MBS International",203.0,207.0
+13198,"Kansas City, MO: Kansas City International",87.0,120.0
+13204,"Orlando, FL: Orlando International",208.0,253.0
+13230,"Harrisburg, PA: Harrisburg International",193.0,230.0
+13232,"Chicago, IL: Chicago Midway International",91.0,67.0
+13241,"Meridian, MS: Key Field",303.0,302.0
+13244,"Memphis, TN: Memphis International",99.0,119.0
+13256,"Mission/McAllen/Edinburg, TX: McAllen Miller International",137.0,155.0
+13264,"Medford, OR: Rogue Valley International - Medford",242.0,206.0
+13277,"Montgomery, AL: Montgomery Regional",243.0,249.0
+13290,"Manhattan/Ft. Riley, KS: Manhattan Regional",0.0,0.0
+13296,"Manchester, NH: Manchester-Boston Regional",67.0,125.0
+13303,"Miami, FL: Miami International",281.0,266.0
+13342,"Milwaukee, WI: General Mitchell International",109.0,136.0
+13344,"Muskegon, MI: Muskegon County",272.0,191.0
+13360,"Melbourne, FL: Melbourne International",47.0,57.0
+13367,"Moline, IL: Quad City International",180.0,224.0
+13377,"Monroe, LA: Monroe Regional",219.0,225.0
+13388,"Mammoth Lakes, CA: Mammoth Lakes Airport",300.0,208.0
+13422,"Mobile, AL: Mobile Regional",201.0,231.0
+13433,"Minot, ND: Minot International",162.0,91.0
+13459,"Marquette, MI: Sawyer International",295.0,92.0
+13476,"Monterey, CA: Monterey Regional",213.0,219.0
+13485,"Madison, WI: Dane County Regional-Truax Field",93.0,130.0
+13486,"Missoula, MT: Missoula International",59.0,56.0
+13487,"Minneapolis, MN: Minneapolis-St Paul International",138.0,168.0
+13495,"New Orleans, LA: Louis Armstrong New Orleans International",110.0,129.0
+13502,"Montrose/Delta, CO: Montrose Regional",200.0,121.0
+13541,"Martha's Vineyard, MA: Martha's Vineyard Airport",307.0,194.0
+13577,"Myrtle Beach, SC: Myrtle Beach International",228.0,213.0
+13795,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",240.0,209.0
+13796,"Oakland, CA: Metropolitan Oakland International",113.0,138.0
+13830,"Kahului, HI: Kahului Airport",22.0,38.0
+13851,"Oklahoma City, OK: Will Rogers World",70.0,160.0
+13871,"Omaha, NE: Eppley Airfield",82.0,132.0
+13873,"Nome, AK: Nome Airport",19.0,14.0
+13891,"Ontario, CA: Ontario International",136.0,162.0
+13930,"Chicago, IL: Chicago O'Hare International",273.0,270.0
+13931,"Norfolk, VA: Norfolk International",186.0,167.0
+13933,"Worcester, MA: Worcester Regional",292.0,245.0
+13964,"North Bend/Coos Bay, OR: Southwest Oregon Regional",309.0,309.0
+13970,"Kotzebue, AK: Ralph Wien Memorial",8.0,7.0
+14006,"Paducah, KY: Barkley Regional",261.0,159.0
+14025,"Plattsburgh, NY: Plattsburgh International",149.0,161.0
+14027,"West Palm Beach/Palm Beach, FL: Palm Beach International",266.0,262.0
+14057,"Portland, OR: Portland International",66.0,86.0
+14082,"Punta Gorda, FL: Punta Gorda Airport",225.0,202.0
+14098,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",55.0,103.0
+14100,"Philadelphia, PA: Philadelphia International",195.0,221.0
+14107,"Phoenix, AZ: Phoenix Sky Harbor International",102.0,114.0
+14108,"Peoria, IL: General Downing - Peoria International",244.0,145.0
+14109,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",299.0,308.0
+14113,"Pocatello, ID: Pocatello Regional",36.0,36.0
+14122,"Pittsburgh, PA: Pittsburgh International",53.0,151.0
+14150,"Pellston, MI: Pellston Regional Airport of Emmet County",249.0,144.0
+14193,"Pensacola, FL: Pensacola International",68.0,87.0
+14222,"Pago Pago, TT: Pago Pago International",304.0,39.0
+14252,"Pasco/Kennewick/Richland, WA: Tri Cities",126.0,185.0
+14254,"Ponce, PR: Mercedita",86.0,294.0
+14256,"Petersburg, AK: Petersburg James A Johnson",24.0,61.0
+14262,"Palm Springs, CA: Palm Springs International",265.0,164.0
+14307,"Providence, RI: Theodore Francis Green State",65.0,166.0
+14321,"Portland, ME: Portland International Jetport",256.0,248.0
+14457,"Rapid City, SD: Rapid City Regional",106.0,90.0
+14487,"Redding, CA: Redding Municipal",257.0,228.0
+14489,"Bend/Redmond, OR: Roberts Field",269.0,220.0
+14492,"Raleigh/Durham, NC: Raleigh-Durham International",161.0,226.0
+14520,"Rhinelander, WI: Rhinelander/Oneida County",170.0,63.0
+14524,"Richmond, VA: Richmond International",246.0,276.0
+14543,"Rock Springs, WY: Rock Springs Sweetwater County",25.0,43.0
+14570,"Reno, NV: Reno/Tahoe International",151.0,143.0
+14574,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",169.0,146.0
+14576,"Rochester, NY: Greater Rochester International",140.0,200.0
+14588,"Roswell, NM: Roswell International Air Center",124.0,59.0
+14633,"Rochester, MN: Rochester International",159.0,133.0
+14635,"Fort Myers, FL: Southwest Florida International",175.0,198.0
+14674,"Santa Fe, NM: Santa Fe Municipal",306.0,297.0
+14679,"San Diego, CA: San Diego International",97.0,111.0
+14683,"San Antonio, TX: San Antonio International",83.0,179.0
+14685,"Savannah, GA: Savannah/Hilton Head International",222.0,178.0
+14689,"Santa Barbara, CA: Santa Barbara Municipal",286.0,196.0
+14696,"South Bend, IN: South Bend International",221.0,274.0
+14698,"San Luis Obispo, CA: San Luis County Regional",238.0,184.0
+14709,"Deadhorse, AK: Deadhorse Airport",2.0,5.0
+14711,"State College, PA: University Park",250.0,289.0
+14730,"Louisville, KY: Louisville International-Standiford Field",112.0,118.0
+14747,"Seattle, WA: Seattle/Tacoma International",72.0,95.0
+14771,"San Francisco, CA: San Francisco International",260.0,303.0
+14783,"Springfield, MO: Springfield-Branson National",177.0,139.0
+14794,"St. George, UT: St George Regional",26.0,51.0
+14814,"Shreveport, LA: Shreveport Regional",223.0,242.0
+14828,"Sitka, AK: Sitka Rocky Gutierrez",30.0,32.0
+14831,"San Jose, CA: Norman Y. Mineta San Jose International",96.0,88.0
+14842,"San Angelo, TX: San Angelo Regional/Mathis Field",294.0,246.0
+14843,"San Juan, PR: Luis Munoz Marin International",155.0,250.0
+14869,"Salt Lake City, UT: Salt Lake City International",58.0,62.0
+14893,"Sacramento, CA: Sacramento International",117.0,150.0
+14905,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",298.0,301.0
+14908,"Santa Ana, CA: John Wayne Airport-Orange County",74.0,48.0
+14952,"Springfield, IL: Abraham Lincoln Capital",226.0,218.0
+14955,"Saipan, TT: Francisco C. Ada Saipan International",274.0,1.0
+14960,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",227.0,275.0
+14986,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",232.0,142.0
+15016,"St. Louis, MO: St Louis Lambert International",147.0,135.0
+15024,"Charlotte Amalie, VI: Cyril E King",160.0,193.0
+15027,"Christiansted, VI: Henry E. Rohlsen",130.0,217.0
+15041,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",251.0,109.0
+15070,"Newburgh/Poughkeepsie, NY: Stewart International",276.0,306.0
+15096,"Syracuse, NY: Syracuse Hancock International",220.0,263.0
+15249,"Tallahassee, FL: Tallahassee International",79.0,115.0
+15304,"Tampa, FL: Tampa International",144.0,216.0
+15323,"Bristol/Johnson City/Kingsport, TN: Tri Cities",196.0,190.0
+15356,"Trenton, NJ: Trenton Mercer",270.0,291.0
+15370,"Tulsa, OK: Tulsa International",62.0,163.0
+15376,"Tucson, AZ: Tucson International",123.0,201.0
+15380,"Traverse City, MI: Cherry Capital",210.0,251.0
+15389,"Twin Falls, ID: Joslin Field - Magic Valley Regional",54.0,18.0
+15401,"Texarkana, AR: Texarkana Regional-Webb Field",293.0,299.0
+15411,"Tyler, TX: Tyler Pounds Regional",11.0,42.0
+15412,"Knoxville, TN: McGhee Tyson",199.0,273.0
+15497,"St. Augustine, FL: Northeast Florida Regional",291.0,287.0
+15607,"Valdosta, GA: Valdosta Regional",202.0,243.0
+15624,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",133.0,104.0
+15841,"Wrangell, AK: Wrangell Airport",56.0,45.0
+15897,"West Yellowstone, MT: Yellowstone",27.0,20.0
+15919,"Fayetteville, AR: Northwest Arkansas Regional",211.0,237.0
+15991,"Yakutat, AK: Yakutat Airport",5.0,21.0
+16218,"Yuma, AZ: Yuma MCAS/Yuma International",20.0,15.0
