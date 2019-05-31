@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>OpenClassroom Project 4 - Xavier Montamat</h1>
+<p>Choose your flight infos</p>
+
+<form action="/estimated_delay" method="post">
+
+<p> Date & Time of departure:</p>
+<input name="dep_date" type="datetime-local" value="2018-11-20T19:30" min="2018-11-20T19:30">
+
+<p> Date & Time of arrival:</p>
+<input name="arr_date" type="datetime-local" value="2018-11-20T23:30" min="2018-11-20T19:30">
+
+<p> Origin Aiport :</p>
+<select name="origin_airport">
+  {{airports_list|safe}}
+</select>
+
+<p> Destination Aiport :</p>
+<select name="dest_airport">
+  {{airports_list|safe}}
+</select>
+
+<p> Airline :</p>
+<select name="carrier">
+  {{carriers_list|safe}}
+</select>
+
+<p> Aircraft number :</p>
+<select name="tail_num">
+  {{tail_num_list|safe}}
+</select>
+
+<p>
+<p>
+<input type="submit" value="Submit">
+  
+</form>
+</body>
+</html>  

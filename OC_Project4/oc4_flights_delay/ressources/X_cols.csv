@@ -1,0 +1,9 @@
+original_name,reorder,nb_poly_features,poly_score,new_name
+DAY,True,9,0.0299,day_ordered
+CARRIER,True,3,0.005,carrier_ordered
+CRS_ELAPSED_TIME_10min,False,3,0.001,CRS_ELAPSED_TIME_10min
+TAIL_NUM,True,3,0.01,tail_num_ordered
+ORIGIN_AIRPORT_ID,True,3,0.0047,origin_airport_id_ordered
+DEST_AIRPORT_ID,True,3,0.0056,dest_airport_id_ordered
+DEP_TIME_5min,False,3,0.0129,DEP_TIME_5min
+ARR_TIME_5min,False,3,0.0128,ARR_TIME_5min
